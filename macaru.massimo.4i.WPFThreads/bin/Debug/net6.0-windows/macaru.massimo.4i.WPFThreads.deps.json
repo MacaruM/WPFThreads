@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "macaru.massimo.4i.WPFThreads/1.0.0": {
+        "runtime": {
+          "macaru.massimo.4i.WPFThreads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "macaru.massimo.4i.WPFThreads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
