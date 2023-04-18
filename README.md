@@ -18,4 +18,10 @@
 
 ### ![creazione thread](/immagini_WPFThreads/wpf4.png)
 
+## Step 3:
+### Proseguendo abbiamo inserito i comandi da eseguire all'interno del dispatcher che ci servivano ad incrementare il contatore:
+### ![creazione thread](/immagini_WPFThreads/wpf5.png)
+### e la progressbar:
+### ![creazione thread](/immagini_WPFThreads/wpf6.png)
+
 
