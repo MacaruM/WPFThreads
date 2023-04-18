@@ -5,6 +5,7 @@
 ## Obbiettivo del compito:
 ### In questo compito abbiamo creato 3 contatori che contavano insieme e 1 contatore totale,dove abbiamo creato un thread per ognuno di essi .
 
+### Parte di C#
 
 ## Step 1:
 ### Inanzitutto un thread è una parte del processo che viene eseguita in maniera concorrente ed indipendente internamente allo stato generale del processo stesso.
@@ -39,6 +40,12 @@
 ## Step 5:
 ### Creare un metodo che mi ponga tutti i valori dei contatori a 0, compresa la progressbar, premendo il tasto:
 ### ![creazione thread](/immagini_WPFThreads/wpf11.png) 
+
+
+### Passiamo alla parte XAML
+
+## Subito possiamo notare questa schermata che ci permette di vedere le modifiche in anteprima:
+### ![creazione thread](/immagini_WPFThreads/wpf12.png) 
 
 
 
