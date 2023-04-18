@@ -9,4 +9,4 @@
 ## Step 1:
 ### Inanzitutto un thread è una parte del processo che viene eseguita in maniera concorrente ed indipendente internamente allo stato generale del processo stesso.
 ### Quindi come prima cosa abbiamo creato ed istanziato i nostri thread:
-<img src = "wpf1.jpg" width"300">
+### <img src = "wpf1.jpg" width"300">
