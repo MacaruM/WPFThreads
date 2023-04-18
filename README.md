@@ -7,4 +7,5 @@
 
 
 ## Step 1:
-### Inanzitutto 
+### Inanzitutto un thread è una parte del processo che viene eseguita in maniera concorrente ed indipendente internamente allo stato generale del processo stesso.
+### Quindi come prima cosa abbiamo creato ed istanziato i nostri thread
