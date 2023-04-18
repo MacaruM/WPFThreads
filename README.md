@@ -14,6 +14,8 @@
 ## Step 2:
 ### In seguito abbiamo creato un altro thread con all'interno una funzione di WAIT che ci serve a sospendere il thread e subito dopo  abbiamo usato un Dispatcher.Invoke che serve a eseguire in modo sincrono nell'ordine in cui sono posizionate le istruzioni che seguono dopo la funzione lambda che ci aiuta a creare una funzione
 ### ![creazione thread](/immagini_WPFThreads/wpf3.png)
-### Una volta finita l'esecuzione dei comandi all'interno del Dispatcher.Invoke il pulsante darà di nuovo disponibile per l'utilizzo ### ![creazione thread](/immagini_WPFThreads/wpf4.png)
+### Una volta finita l'esecuzione dei comandi all'interno del Dispatcher.Invoke il pulsante sarà di nuovo disponibile per l'utilizzo
+
+### ![creazione thread](/immagini_WPFThreads/wpf4.png)
 
 
