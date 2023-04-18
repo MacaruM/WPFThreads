@@ -44,8 +44,11 @@
 
 # Passiamo alla parte XAML
 
-## Subito possiamo notare questa schermata che ci permette di vedere le modifiche in anteprima:
+### Subito possiamo notare questa schermata che ci permette di vedere le modifiche nella tendina sottostante in anteprima:
 ### ![creazione thread](/immagini_WPFThreads/wpf12.png) 
+### In seguito con btngo indichiamo il tasto di start e con btn clear quello di azzeramento:
+### ![creazione thread](/immagini_WPFThreads/wpf12.png) 
+
 
 
 
