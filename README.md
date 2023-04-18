@@ -10,3 +10,7 @@
 ### Inanzitutto un thread è una parte del processo che viene eseguita in maniera concorrente ed indipendente internamente allo stato generale del processo stesso.
 ### Quindi come prima cosa abbiamo creato ed istanziato i nostri thread:
 ### ![creazione thread](/immagini_WPFThreads/wpf1.png)
+
+## Step 2:
+### In seguito abbiamo creato un altro thread con all'interno una funzione di WAIT che ci serve a sospendere il thread e subito dopo  abbiamo usato un Dispatcher.Invoke che serve a eseguire in modo sincrono nell'ordine in cui sono posizionate le istruzioni che seguono dopo la funzione lambda che ci aiuta a creare una funzione
+### ![creazione thread](/immagini_WPFThreads/wpf2.png)
