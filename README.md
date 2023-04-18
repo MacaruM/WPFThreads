@@ -47,7 +47,9 @@
 ### Subito possiamo notare questa schermata che ci permette di vedere le modifiche nella tendina sottostante in anteprima:
 ### ![creazione thread](/immagini_WPFThreads/wpf12.png) 
 ### In seguito con btngo indichiamo il tasto di start e con btn clear quello di azzeramento:
-### ![creazione thread](/immagini_WPFThreads/wpf12.png) 
+### ![creazione thread](/immagini_WPFThreads/wpf13.png) 
+### Infine qua definiamo i 4 contatori seguiti dalla progressbar:
+### ![creazione thread](/immagini_WPFThreads/wpf14.png) 
 
 
 
