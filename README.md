@@ -28,11 +28,11 @@
 ### Creare dei metodi che ci permettano di incrementare i contatori:
 ### ![creazione thread](/immagini_WPFThreads/wpf8.png)
 ### Che sono caratterizati da una funzione di lock che vuole un oggetto per funzionare e ci rende atomico il codice compreso tra le sue parentesi , quindi acquisisce un blocco e nessun thread vi può accedere
-### ![creazione thread](/immagini_WPFThreads/wpf1.png) 
+### ![creazione thread](/immagini_WPFThreads/wpf2.png) 
 ### Caratterizzati ovviamenti dai comandi di incrementazione del contatore:
-### ![creazione thread](/immagini_WPFThreads/wpf9.png) 
-### Della progressbar:
 ### ![creazione thread](/immagini_WPFThreads/wpf10.png) 
+### Caratterizzati anche dalla funzione di Sleep per far addormentare il nostro processo per il tempo stabilito nella costante TEMPO1 che per ogni thread è diversa e viene misurato in ms:
+### ![creazione thread](/immagini_WPFThreads/wpf9.png) 
 ### E infine da una funzione di Signal:
 ### ![creazione thread](/immagini_WPFThreads/wpf11.png) 
 
