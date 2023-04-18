@@ -34,7 +34,7 @@
 ### Caratterizzati anche dalla funzione di Sleep per far addormentare il nostro processo per il tempo stabilito nella costante TEMPO1 che per ogni thread è diversa e viene misurato in ms:
 ### ![creazione thread](/immagini_WPFThreads/wpf9.png) 
 ### E infine da una funzione di Signal:
-### ![creazione thread](/immagini_WPFThreads/wpf11.png) 
+### ![creazione thread](/immagini_WPFThreads/wpf7.png) 
 
 
 
