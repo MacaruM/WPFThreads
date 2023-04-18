@@ -36,6 +36,10 @@
 ### E infine da una funzione di Signal:
 ### ![creazione thread](/immagini_WPFThreads/wpf7.png) 
 
+## Step 5:
+### Creare un metodo che mi ponga tutti i valori dei contatori a 0, compresa la progressbar, premendo il tasto:
+### ![creazione thread](/immagini_WPFThreads/wpf11.png) 
+
 
 
 
